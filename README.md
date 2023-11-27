@@ -1,1 +1,1 @@
-# aw-contract-notify-worlds
+# aw-contract-notify-world
